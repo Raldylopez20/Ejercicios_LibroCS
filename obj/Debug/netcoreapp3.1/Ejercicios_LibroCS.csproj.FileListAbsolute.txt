@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\bin\Debug\netcoreapp3.1\Ejercicios_LibroCS.exe
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\bin\Debug\netcoreapp3.1\Ejercicios_LibroCS.deps.json
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\bin\Debug\netcoreapp3.1\Ejercicios_LibroCS.runtimeconfig.json
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\bin\Debug\netcoreapp3.1\Ejercicios_LibroCS.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\bin\Debug\netcoreapp3.1\Ejercicios_LibroCS.dll
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\bin\Debug\netcoreapp3.1\Ejercicios_LibroCS.pdb
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\obj\Debug\netcoreapp3.1\Ejercicios_LibroCS.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\obj\Debug\netcoreapp3.1\Ejercicios_LibroCS.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\obj\Debug\netcoreapp3.1\Ejercicios_LibroCS.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\obj\Debug\netcoreapp3.1\Ejercicios_LibroCS.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\obj\Debug\netcoreapp3.1\Ejercicios_LibroCS.dll
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\obj\Debug\netcoreapp3.1\Ejercicios_LibroCS.pdb
+C:\Users\usuario\source\repos\Ejercicios_LibroCS\obj\Debug\netcoreapp3.1\Ejercicios_LibroCS.genruntimeconfig.cache
